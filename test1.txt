@@ -1,0 +1,4 @@
+Test 1
+^X
+exit
+:exit:q^O
